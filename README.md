@@ -102,7 +102,7 @@ I enjoy breaking software before users do, finding edge cases, improving test co
 
 ### 🧪 Web Automation Framework
 
-Scalable UI automation framework designed to validate web applications across multiple browsers and environments.
+Scmalable UI automation framework designed to validate web applications across multiple browsers and environments.
 
 **Core:**  
 `Python` `Selenium` `PyTest` `POM` `WebDriver`
